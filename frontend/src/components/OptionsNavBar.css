@@ -1,0 +1,45 @@
+/* styles.css */
+#optionsnow .navbar {
+    background-color: #272727;
+    padding: 1px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.optionsnow .navbar-brand {
+    align-content: baseline;
+    font-size: 1rem;
+    font-weight: normal;
+    color: #333;
+}
+
+.optionsnow .navbar-brand:hover {
+    color: #555;
+}
+
+.optionsnow .navbar-nav {
+    margin-left: auto;
+    background-color: #272727;
+    color: #B2B2B2;
+}
+
+.optionsnow .nav-link {
+    color: #333;
+    margin-left: 10px;
+}
+
+.optionsnow .nav-link:hover {
+    color: #555;
+}
+
+.optionsnow .nav-link.active {
+    color: #007bff;
+}
+
+
+.optionsnow .navbar-toggler {
+    border-color: #333;
+}
+
+.optionsnow .custom-dropdown-arrow .dropdown-toggle::after {
+    border-top-color: #b2b2b2; /* Set your desired color here */
+}

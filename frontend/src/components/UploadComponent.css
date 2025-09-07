@@ -1,0 +1,21 @@
+.upload-button input[type="file"]{
+    background-color: #272727;
+    color: #B2B2B2;
+    border-color: #808080
+}
+
+.file-input-container{
+    margin-top: 10px;
+    margin-inline-end: 10px;
+    background-color: #272727;
+}
+
+.file-input-container .upload-button{
+
+}
+
+.custom-file-upload .button{
+    margin-top: 10px;
+    margin-inline-end: 10px;
+    background-color: #272727;
+}
