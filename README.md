@@ -38,14 +38,6 @@ FileBox provides a set of features to easily manage your files:
 - Unit Of Work Pattern
 - Generic Repository
 
-
-## Project Links
-  ### Front-End
-    https://github.com/nuricanozturk01/File-Box-FrontEnd
-  ### Selenium Test
-    https://github.com/nuricanozturk01/File-Box-Selenium-Test
-
-
 ## Getting Started
 
 You can use FileBox on a local server or with cloud services. Below are the basic setup steps:
